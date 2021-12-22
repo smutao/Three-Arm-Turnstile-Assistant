@@ -2,7 +2,7 @@
 Three-Arm Turnstile Assistant 
 by Yunwen Tao, Ph.D.
 
-email: ywtao[at]gmail.com 
+email: ywtao.smu[at]gmail.com 
 
 License: BSD-2-Clause
 '''
