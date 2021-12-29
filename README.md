@@ -53,7 +53,9 @@ https://user-images.githubusercontent.com/10540422/146475409-0fd4f3dc-9183-483f-
 If you find this tool useful in your research, please cite our articles.
 
 
+1. Y. Tao, W. Zou, G. Luo, E. Kraka, [Describing Polytopal Rearrangement Processes of Octacoordinate Structures. I. Renewed Insights into Fluxionality of the Rhenium Polyhydride Complex ReH<sub>5</sub>(PPh<sub>3</sub>)<sub>2</sub>(Pyridine)](https://pubs.acs.org/doi/10.1021/acs.inorgchem.0c03418), Inorg. Chem., 60, 2492 (2021)
 
+2. Y. Tao, X. Wang, W. Zou, G. Luo, E. Kraka, [Unusual Intramolecular Motion of ReH<sub>9</sub><sup>2-</sup> in K<sub>2</sub>ReH<sub>9</sub> Crystal: Circle Dance and Three-Arm Turnstile Mechanisms Revealed by Computational Studies](https://pubs.acs.org/doi/10.1021/acs.inorgchem.1c03118), Inorg. Chem. (2022)
 
 
 
